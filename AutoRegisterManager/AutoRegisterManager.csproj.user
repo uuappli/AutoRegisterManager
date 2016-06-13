@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ReferencePath>D:\HISCODE\HIS2011CODEV7.0\AutoRegisterManager(宝鸡妇幼)\AutoRegisterManager\bin\Debug\dll\</ReferencePath>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>
